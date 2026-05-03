@@ -17,5 +17,3 @@ A simple and interactive Music Player built to play, pause, and manage audio tra
 ☁️ Online streaming support
 📱 Mobile app version
 🤝 Contributing
-
-# Contributions are welcome! Feel free to fork this repo and submit a pull request.
