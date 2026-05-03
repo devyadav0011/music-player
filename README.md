@@ -16,7 +16,7 @@ A simple and interactive Music Player built to play, pause, and manage audio tra
 
 🎧 Responsive and clean UI
 
-💡 Future Improvements
+------------💡 Future Improvements -------------------
 
 🔍 Search songs
 
