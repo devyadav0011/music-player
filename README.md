@@ -2,7 +2,7 @@
 
 A simple and interactive Music Player built to play, pause, and manage audio tracks with an intuitive UI. This project demonstrates core concepts of media handling, UI design, and user interaction.
 
-🚀 Features
+## 🚀 Features
 
 ▶️ Play / Pause music
 
@@ -16,7 +16,8 @@ A simple and interactive Music Player built to play, pause, and manage audio tra
 
 🎧 Responsive and clean UI
 
-------------💡 Future Improvements -------------------
+---------------------------------------
+## 💡 Future Improvements 
 
 🔍 Search songs
 
@@ -29,3 +30,4 @@ A simple and interactive Music Player built to play, pause, and manage audio tra
 📱 Mobile app version
 
 🤝 Contributing
+-----------------------------------------
